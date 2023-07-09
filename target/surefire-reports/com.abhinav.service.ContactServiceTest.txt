@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.abhinav.service.ContactServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec <<< FAILURE!
+com.abhinav.service.ContactServiceTest.testGetContactById_03()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.abhinav.service.ContactServiceTest.testGetContactById_03(ContactServiceTest.java:67)
+
+com.abhinav.service.ContactServiceTest.testGetAllName_02()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.abhinav.service.ContactServiceTest.testGetAllName_02(ContactServiceTest.java:60)
+
+com.abhinav.service.ContactServiceTest.testGetNameById_01()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.abhinav.service.ContactServiceTest.testGetNameById_01(ContactServiceTest.java:53)
+
